@@ -14,7 +14,7 @@ Web extension to copy tabs URLs to clipboard.
 
 * Go to `about:debugging` then *This Firefox*
 * Select *Load Temporary Add-on*
-* Select either the packaged extension file `tabsurls.zip` or one of the extension source file (e.g. `manifests.json`)
+* Select either the packaged extension file `tabsurls.zip` or one of the extension source file (e.g. `manifest.json`)
 
 ### Permanent installation
 
